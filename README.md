@@ -26,8 +26,10 @@ In order to reproduce this script you'll need:
   * re
   
   * requests
+  * Seaborn/Matplotlib
   
   * And ofc Python
+ 
   
   
-## Work Still in Progress
+## Project DONE
